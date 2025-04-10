@@ -1,4 +1,4 @@
-group: MiBanquito
+group: Banco
 ctacliente={
 	numcta:string, idcliente:number
 	'C-00002'    , 2               
